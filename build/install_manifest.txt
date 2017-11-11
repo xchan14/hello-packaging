@@ -1,0 +1,3 @@
+/usr/bin/com.github.xchan14.gtk-hello-again
+/usr/share/applications/com.github.xchan14.gtk-hello-again.desktop
+/usr/share/metainfo/com.github.xchan14.gtk-hello-again.appdata.xml

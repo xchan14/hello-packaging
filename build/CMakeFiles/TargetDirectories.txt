@@ -1,0 +1,7 @@
+/home/xchan14/Documents/Projects/loki-apps/hello-world/hello-again/build/CMakeFiles/install.dir
+/home/xchan14/Documents/Projects/loki-apps/hello-world/hello-again/build/CMakeFiles/list_install_components.dir
+/home/xchan14/Documents/Projects/loki-apps/hello-world/hello-again/build/CMakeFiles/rebuild_cache.dir
+/home/xchan14/Documents/Projects/loki-apps/hello-world/hello-again/build/CMakeFiles/com.github.xchan14.gtk-hello-again.dir
+/home/xchan14/Documents/Projects/loki-apps/hello-world/hello-again/build/CMakeFiles/install/strip.dir
+/home/xchan14/Documents/Projects/loki-apps/hello-world/hello-again/build/CMakeFiles/install/local.dir
+/home/xchan14/Documents/Projects/loki-apps/hello-world/hello-again/build/CMakeFiles/edit_cache.dir
